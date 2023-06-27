@@ -34,7 +34,7 @@ export default function Navbar() {
 						target={"_blank"}
 						className="text-[32px] text-white font-serif"
 					>
-						APTOS3
+						POLKA.3
 					</div>
 					<div className={style.logoText}></div>
 				</div>
